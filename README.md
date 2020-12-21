@@ -19,4 +19,6 @@ Andrzejak RG, Lehnertz K, Rieke C, Mormann F, David P, Elger CE (2001) Indicatio
 
 ## Linear SVM Classifier
 A linear SVM trained was fitted and trained using 6-fold cross validation. The AUC for each fold was calculated, along with the mean. 
+
+
 <img style = "float: left;" src="performance.png" width="450" height="450"/>
